@@ -115,6 +115,5 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use, 
 
 ## **Author**
 
-    **Oshank Agrawal**
-*Developer, Problem Solver, Tech Enthusiast*
+    **Oshank Agrawal** *Developer, Problem Solver, Tech Enthusiast*
 🔗 [LinkedIn](https://www.linkedin.com/in/oshankagrawal/) • 📧 [E-Mail](mailto:oshankagrawal@gmail.com)
