@@ -45,7 +45,6 @@ The project demonstrates complete implementation of a modern web app — includi
    ```
    git clone https://github.com/OshankAgrawal/Major-Project.git
    cd Major-Project
-   
    ```
 
 2. **Install Dependencies**
@@ -68,6 +67,8 @@ The project demonstrates complete implementation of a modern web app — includi
     ```
     The app will typically run on `http://localhost:3000/`.
 
+    ---
+
 5. **Folder Structure**
     ```
     major-project/
@@ -82,6 +83,9 @@ The project demonstrates complete implementation of a modern web app — includi
     └── .env.example     # Sample environment file
 
     ```
+
+---
+
 6. **Key Highlights**
 
 * Implemented MVC architecture for clean code separation.
@@ -91,6 +95,23 @@ The project demonstrates complete implementation of a modern web app — includi
 * Focused on reusability, modularity, and performance optimization.
 
 * Built with a mindset for scalability and production deployment readiness.
+
+---
+
+## 📸 Screenshot
+![Game Screenshot](picture.png)
+
+---
+
+## 🏷️ Topics
+`nodejs` `express` `mongodb` `ejs` `passportjs` `cloudinary` `fullstack` `web-development` `mvc` `authentication` `session-management` `multer` `dotenv`
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE) – feel free to use, modify, and share with credit.
+
+---
 
 7. **Author**
 
