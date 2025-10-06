@@ -61,7 +61,7 @@ The project demonstrates complete implementation of a modern web app — includi
     MONGO_URL=your_mongodb_connection_string
     SESSION_SECRET=your_secret_key
     ```
-4. **Run the Applicationj**
+4. **Run the Application**
     ```
     node app.js
     ```
@@ -69,7 +69,7 @@ The project demonstrates complete implementation of a modern web app — includi
 
     ---
 
-5. **Folder Structure**
+## **Folder Structure**
     ```
     major-project/
     │
@@ -86,7 +86,7 @@ The project demonstrates complete implementation of a modern web app — includi
 
 ---
 
-6. **Key Highlights**
+## **Key Highlights**
 
 * Implemented MVC architecture for clean code separation.
 
@@ -113,10 +113,8 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use, 
 
 ---
 
-7. **Author**
+## **Author**
 
     **Oshank Agrawal**
-    *Developer, Problem Solver, Tech Enthusiast* 
-    
-    * [LinkedIn](https://www.linkedin.com/in/oshankagrawal/)
-    * [E-Mail](mailto:oshankagrawal@gmail.com)
+*Developer, Problem Solver, Tech Enthusiast*
+🔗 [LinkedIn](https://www.linkedin.com/in/oshankagrawal/) • 📧 [E-Mail](mailto:oshankagrawal@gmail.com)
